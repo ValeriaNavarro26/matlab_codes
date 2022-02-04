@@ -1,0 +1,12 @@
+La hipótesis del ingreso permanente del ciclo de vida predice que el consumo depende del ingreso
+permanente, que es el valor de la anualidad de los recursos de por vida, y no del ingreso corriente
+(Friedman 1957). Entonces, si esta hipótesis fuera exacta y se asumieran expectativas racionales,
+Hall demuestra que el consumo seguiría un proceso AR(1), de modo que el consumo en el periodo
+t solo podría ser explicado por el consumo del periodo anterior. Es decir, que el entorno macroeconómico
+solo afectaría, en cada periodo, la racionalidad de los consumidores generando situaciones
+impredecibles.
+
+Sin embargo, existen numerosos estudios empíricos que han rechazado esta hipótesis, debido a que
+el consumo sería sensible a otros factores, como la tasa de interés que se encuentra positivamente
+relacionado con el ingreso corriente o con la propia incertidumbre económica (Mankiw 1981, Mankiw
+y Campbell 1990, Koedijk y Smant 1994).
